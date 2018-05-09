@@ -1,6 +1,6 @@
 #+TITLE:         Geschichte der Netzpolitik: Überblick
 #+DATE:          <2018-05-08 Tue>
-#+DESCRIPTION:   Netzpolitik lehren, Modul Geschichte, Copyright (c) 2013–2018: Jürgen Fenn, Lizenz: CC-BY-SA 3.0
+#+DESCRIPTION:   Netzpolitik lehren, Modul Geschichte, Copyright (c) 2013–2018: Jürgen Fenn, Lizenz: CC-BY-SA 4.0
 #+KEYWORDS:      netzpolitik, schule, hochschule
 #+LANGUAGE:      de
 

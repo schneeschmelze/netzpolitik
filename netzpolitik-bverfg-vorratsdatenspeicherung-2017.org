@@ -1,6 +1,6 @@
 #+TITLE:         Quellen zum Datenschutzrecht. Rechtsprechung zur Vorratsdatenspeicherung
 #+DATE:          <2018-05-09 Wed>
-#+DESCRIPTION:   Netzpolitik lehren, Modul Datenschutz, Copyright (c) 2017–2018: Jürgen Fenn, Lizenz: CC-BY-SA 3.0
+#+DESCRIPTION:   Netzpolitik lehren, Modul Datenschutz, Copyright (c) 2017–2018: Jürgen Fenn, Lizenz: CC-BY-SA 4.0
 #+KEYWORDS:      netzpolitik, schule, hochschule
 #+LANGUAGE:      de
 
