@@ -1,0 +1,54 @@
+#+TITLE:         Geschichte der Netzpolitik: Überblick
+#+DATE:          <2018-05-08 Tue>
+#+DESCRIPTION:   Netzpolitik lehren, Modul Geschichte, Copyright (c) 2013–2018: Jürgen Fenn, Lizenz: CC-BY-SA 3.0
+#+KEYWORDS:      netzpolitik, schule, hochschule
+#+LANGUAGE:      de
+
+* Chronologie
+
+- 1969 :: Beginn des ARPANET
+- 1970 :: Hessisches Datenschutzgesetz, 7. Oktober 1970, GVBl. I S. 625
+- 1977 :: Bundesdatenschutzgesetz, 27. Januar 1977, BGBl. I S. 201 
+- 1978 :: Joseph Weizenbaum, Die Macht der Computer und die Ohnmacht der Vernunft
+- 1981 :: Gründung Chaos Computer Club (CCC)
+- 1983 :: Volkszählungsurteil, „Recht auf informationelle Selbstbestimmung“, BVerfGE 65, 1
+- 1987 :: Gründung FoeBuD (Verein zur Förderung des öffentlichen bewegten und unbewegten Datenverkehrs), heißt seit 2012 Digitalcourage
+- 1989 :: Entwicklung des World Wide Web durch Tim Berners Lee (CERN)
+- 1995 :: Jeremy Rifkin: Das Ende der Arbeit und ihre Zukunft
+- 1998 :: Gründung der ICANN
+- 1998 :: Gründung Politik digital – Nutzung des Internets für Wahlkämpfe und für die politische Arbeit
+- 1999 :: Peter Glotz: Die beschleunigte Gesellschaft
+- 1999 :: Miriam Meckel: Cyberpolitics und Cyberpolity. Zur Virtualisierung politischer Kommunikation
+- 2000 :: Jeremy Rifkin: The age of access
+- 2000 :: Safe-Harbor-Entscheidung der EU-Kommission, ABl, 25. August 2000, L215/7
+- 2002 :: Gründung netzpolitik.org
+- 2005 :: Gründung AK Vorrat
+- 2006 :: Gründung Piratenpartei Deutschland
+- 2006 :: Informationsfreiheitsgesetz des Bundes, 5. September 2005, BGBl. I S. 2722
+- 2008 :: Urteil zur Online-Durchsuchung, „Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme“ – „IT-Grundrecht“, BVerfGE 120, 274
+- 2009 :: Ilija Trojanow, Juli Zeh: Angriff auf die Freiheit
+- 2010–2013 :: Bundestag: Enquete-Kommission Internet und digitale Gesellschaft
+- 2010 :: Urteil zur Vorratsdatenspeicherung, BVerfGE 125, 260
+- 2010 :: Gründung Digitale Gesellschaft
+- 2011 :: Gründung D64 (SPD-nah)
+- 2012 :: Gründung cnetz (CDU-nah)
+- 2013 :: Frey/Osborne: The future of employment
+- 2013 :: Edward Snowden/Glenn Greenwald: No place to hide; NSA-Affäre
+- 2013 :: Angela Merkel: „Das Internet ist für uns alle Neuland.“
+- 2013–2017 :: Bundesregierung, „Digitale Agenda“
+- 2014–2017 :: Bundestag, NSA-Untersuchungsausschuss, Abschlussbericht: BT-Drs. 18/12850 (1900 Seiten)
+- 2014-2017 :: Bundestag, Ausschuss Digitale Agenda
+- 2014 :: Urteile zur Vorratsdatenspeicherung, EuGH Rs. C-293/12, C594/12
+- 2014 :: Urteil zum „Recht auf Vergessenwerden“, EuGH Rs. C-131/12
+- 2014 :: Friedenspreis des Deutschen Buchhandels an Jaron Lanier
+- 2014 :: Jeremy Rifkin: Die Null-Grenzkosten-Gesellschaft
+- 2014 :: Peter Schaar: Überwachung total
+- 2014 :: Gründung LOAD (FDP-nah)
+- 2015 :: Safe-Harbor-Entscheidung, EuGH Rs. C-362/14
+- 2015 :: Gründung Gesellschaft für Freiheitsrechte
+- 2016 :: EU-US Privacy Shield; Angemessenheitsbeschluss der EU-Kommission, ABl, 1. August 2016, L 207/1
+- 2016 :: Wegfall der Aufsicht der US-amerikanischen Bundesregierung über die ICANN
+- 2017 :: Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken – Netzwerkdurchsetzungsgesetz, 1. September 2017, BGBl. I S. 3352
+- 2018 :: EU-Datenschutz-Grundverordnung, ABl 4. Mai 2016 L 119/1 
+- 2018 :: Bundesdatenschutzgesetz, 30. Juni 2017 BGBl. I S. 2097 
+- 2018 :: Hessisches Datenschutz- und Informationsfreiheitsgesetz, beschlossen am 26. April 2018

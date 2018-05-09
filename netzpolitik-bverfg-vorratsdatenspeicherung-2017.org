@@ -1,0 +1,48 @@
+#+TITLE:         Quellen zum Datenschutzrecht. Rechtsprechung zur Vorratsdatenspeicherung
+#+DATE:          <2018-05-09 Wed>
+#+DESCRIPTION:   Netzpolitik lehren, Modul Datenschutz, Copyright (c) 2017–2018: Jürgen Fenn, Lizenz: CC-BY-SA 3.0
+#+KEYWORDS:      netzpolitik, schule, hochschule
+#+LANGUAGE:      de
+
+* Quellen zum Datenschutzrecht: Vorratsdatenspeicherung
+
+** BVerfG, Volkszählungsurteil vom 15. Dezember 1983, BVerfGE 65, 1, 43, 46
+
+#+BEGIN_QUOTE
+… Freie Entfaltung der Persönlichkeit setzt unter den modernen
+Bedingungen der Datenverarbeitung den Schutz des Einzelnen gegen
+unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe seiner
+persönlichen Daten voraus. … Das Grundrecht gewährleistet insoweit die
+Befugnis des Einzelnen, grundsätzlich selbst über die Preisgabe und
+Verwendung seiner persönlichen Daten zu bestimmen. …
+
+Ein Zwang zur Angabe personenbezogener Daten setzt voraus, daß der
+Gesetzgeber den Verwendungszweck bereichsspezifisch und präzise
+bestimmt und daß die Angaben für diesen Zweck geeignet und
+erforderlich sind. 
+*Damit wäre die Sammlung nicht anonymisierter Daten auf Vorrat zu unbestimmten oder noch nicht bestimmbaren Zwecken nicht zu vereinbaren.* 
+Auch werden sich alle Stellen, die zur Erfüllung ihrer
+Aufgaben personenbezogene Daten sammeln, auf das zum Erreichen des
+angegebenen Zieles erforderliche Minimum beschränken müssen.
+
+*Die Verwendung der Daten ist auf den gesetzlich bestimmten Zweck begrenzt. …*
+#+END_QUOTE
+
+** BVerfG, Urteil vom 2. März 2010, BVerfGE 125, 260, 320 f.
+
+#+BEGIN_QUOTE
+… Trotz der außerordentlichen Streubreite und des mit ihr verbundenen
+Eingriffsgewichts ist dem Gesetzgeber die Einführung einer
+sechsmonatigen Speicherungspflicht …  verfassungsrechtlich nicht
+schlechthin verboten. Allerdings entspricht es der ständigen
+Rechtsprechung des Bundesverfassungsgerichts, dass dem Staat eine
+Sammlung von personenbezogenen Daten auf Vorrat zu unbestimmten oder
+noch nicht bestimmbaren Zwecken verfassungsrechtlich strikt untersagt
+ist (vgl. BVerfGE 65, 1 [46]; 100, 313 [360]; 115, 320 [350]; 118, 168
+[187]). 
+*Um eine solche von vornherein verbotene Form der Datensammlung handelt es sich bei einer vorsorglich anlasslosen Speicherung der Telekommunikationsverbindungsdaten nicht in jedem Fall.* 
+Erfolgt sie zu
+bestimmten Zwecken, kann eine solche Speicherung, eingebunden in eine
+dem Eingriff adäquate gesetzliche Ausgestaltung …, vielmehr auch den
+Verhältnismäßigkeitsanforderungen im engeren Sinne genügen. …
+#+END_QUOTE
