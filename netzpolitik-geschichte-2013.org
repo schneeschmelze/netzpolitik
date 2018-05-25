@@ -1,5 +1,5 @@
 #+TITLE:         Geschichte der Netzpolitik: Überblick
-#+DATE:          <2018-05-08 Tue>
+#+DATE:          <2018-05-26 Sat>
 #+DESCRIPTION:   Netzpolitik lehren, Modul Geschichte, Copyright (c) 2013–2018: Jürgen Fenn, Lizenz: CC-BY-SA 4.0
 #+KEYWORDS:      netzpolitik, schule, hochschule
 #+LANGUAGE:      de
@@ -27,10 +27,12 @@
 - 2006 :: Informationsfreiheitsgesetz des Bundes, 5. September 2005, BGBl. I S. 2722
 - 2008 :: Urteil zur Online-Durchsuchung, „Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme“ – „IT-Grundrecht“, BVerfGE 120, 274
 - 2009 :: Ilija Trojanow, Juli Zeh: Angriff auf die Freiheit
+- 2009 :: Urteil zu Wahlcomputern, BVerfGE 123, 39
 - 2010–2013 :: Bundestag: Enquete-Kommission Internet und digitale Gesellschaft
 - 2010 :: Urteil zur Vorratsdatenspeicherung, BVerfGE 125, 260
 - 2010 :: Gründung Digitale Gesellschaft
 - 2011 :: Gründung D64 (SPD-nah)
+- 2011 :: Online-Durchsuchung: Chaos-Computerclub analysiert den Bundes-/Bayerntrojaner („0zapftis“)
 - 2012 :: Gründung cnetz (CDU-nah)
 - 2013 :: Frey/Osborne: The future of employment
 - 2013 :: Edward Snowden/Glenn Greenwald: No place to hide; NSA-Affäre
@@ -46,6 +48,7 @@
 - 2014 :: Gründung LOAD (FDP-nah)
 - 2015 :: Safe-Harbor-Entscheidung, EuGH Rs. C-362/14
 - 2015 :: Gründung Gesellschaft für Freiheitsrechte
+- 2015 :: Verordnung (EU) 2015/2120 über Netzneutralität und Roaming
 - 2016 :: EU-US Privacy Shield; Angemessenheitsbeschluss der EU-Kommission, ABl, 1. August 2016, L 207/1
 - 2016 :: Wegfall der Aufsicht der US-amerikanischen Bundesregierung über die ICANN
 - 2017 :: Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken – Netzwerkdurchsetzungsgesetz, 1. September 2017, BGBl. I S. 3352
