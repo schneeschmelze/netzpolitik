@@ -32,7 +32,8 @@
 - 2010 :: Urteil zur Vorratsdatenspeicherung, BVerfGE 125, 260
 - 2010 :: Gründung Digitale Gesellschaft
 - 2011 :: Gründung D64 (SPD-nah)
-- 2011 :: Online-Durchsuchung: Chaos-Computerclub analysiert den Bundes-/Bayerntrojaner („0zapftis“)
+- 2011 :: Online-Durchsuchung: Chaos Computer Club analysiert den Bundes-/Bayerntrojaner („0zapftis“)
+- 2011 :: „Schultrojaner“
 - 2012 :: Gründung cnetz (CDU-nah)
 - 2013 :: Frey/Osborne: The future of employment
 - 2013 :: Edward Snowden/Glenn Greenwald: No place to hide; NSA-Affäre
